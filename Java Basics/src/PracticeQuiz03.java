@@ -32,7 +32,7 @@ public class PracticeQuiz03 {
                 System.out.println("Move your vehicle");
                 break;
             default:
-                System.out.println("System is not wroking,Move your vehicle");
+                System.out.println("System is not working,Move your vehicle");
         }
 
 //  Ternary Operators
